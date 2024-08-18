@@ -1,7 +1,7 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Kunwar singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Ajay singh" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Ajay singh" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <a href="https://twitter.com/@ajaysingh149515" target="blank"><img src="https://img.shields.io/twitter/follow/@ajaysingh149515?logo=twitter&style=for-the-badge" alt="@ajaysingh149515" /></a> </p>
 
