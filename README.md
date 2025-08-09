@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F729&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunwar+Singh;Full+Stack+Web+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F729&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunwar+Singh;Full+Stack+Web+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Ideas+into+Reality](https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg?w=2000)" alt="Typing SVG" />
 </p>
 
 <!-- ====================== PROFILE IMAGE ====================== -->
