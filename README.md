@@ -1,6 +1,6 @@
 <!-- ====================== HEADER / BANNER ====================== -->
 <p align="center">
-  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg"  width="400" height="300"s />
+  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="400" height="300" />
 </p>
 
 <!-- ====================== ANIMATED INTRO ====================== -->
@@ -9,7 +9,9 @@
 </h1>
 
 <!-- ====================== PROFILE IMAGE ====================== -->
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunwarsingh123/kunwarsingh123/main/profile.png" width="250" style="border-radius:50%" alt="Profile Image" />
+</p>
 
 ---
 
@@ -27,12 +29,17 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,react,nodejs,express,mongodb,mysql,java,python,electron&theme=dark" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql&theme=dark" /></a>  
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,electron,git,github,vscode&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-%F0%9F%9A%80-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunwarsingh123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
