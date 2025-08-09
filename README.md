@@ -1,6 +1,6 @@
 <!-- ====================== HEADER / BANNER ====================== -->
 <p align="center">
-  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" />
+  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg"  width="400" height="300"s />
 </p>
 
 <!-- ====================== ANIMATED INTRO ====================== -->
