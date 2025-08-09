@@ -9,9 +9,6 @@
 </h1>
 
 <!-- ====================== PROFILE IMAGE ====================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunwarsingh123/kunwarsingh123/main/profile.png" width="250" style="border-radius:50%" alt="Profile Image" />
-</p>
 
 ---
 
