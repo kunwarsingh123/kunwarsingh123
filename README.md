@@ -1,6 +1,6 @@
 <!-- ====================== HEADER / LOGO ====================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/images/profile.png" alt="Kunwar Singh Photo" width="500" style="border-radius: 12px;" />
+  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" />
 </p>
 <!-- Animated Typing Intro -->
 <p align="center">
