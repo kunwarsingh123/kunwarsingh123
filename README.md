@@ -1,16 +1,16 @@
 <!-- ====================== HEADER / LOGO ====================== -->
-<!-- ====================== HEADER / LOGO ====================== -->
 <p align="center">
   <img src="https://i.imgur.com/Nf2P3YF.png" width="500" alt="Kunwar Singh Logo" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kunwar Singh</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🚀 Turning Ideas into Reality</h3>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F729&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunwar+Singh;Full+Stack+Web+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+Ideas+into+Reality" alt="Typing SVG" />
+</p>
 
 <!-- ====================== PROFILE IMAGE ====================== -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQG98p_1W8GoGQ/article-cover_image-shrink_720_1280/0/1704387245671?e=2147483647&v=beta&t=abq2l6v1Q7TqPa2t4b0A3lZnLobOpmrbn83UMFq2Uss" 
-       alt="Coding at Work" width="500" style="border-radius: 12px;" />
+  <img src="https://i.imgur.com/kW0rYEx.jpg" alt="Kunwar Singh Photo" width="400" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -56,4 +56,3 @@
 <p align="center">
   <i>✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</i>
 </p>
-
