@@ -1,6 +1,6 @@
 <!-- ====================== HEADER / LOGO ====================== -->
 <p align="center">
-  <img src="https://i.imgur.com/Nf2P3YF.png" width="500" alt="Kunwar Singh Logo" />
+  <img src="[https://i.imgur.com/Nf2P3YF.png" width="500" alt="Kunwar Singh Logo](https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg?w=2000)" />
 </p>
 
 <!-- Animated Typing Intro -->
