@@ -14,10 +14,23 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/ajaysingh149515" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ajaysingh149515?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/u/0/#all" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/ajay_singh_bhadoria" target="_blank">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kunwar-singh-179aa6244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://x.com/AjaySingh149515?t=Cb4uVXvsogynpJw5f5sQUw&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_ajay_singh_bhadoria?igsh=MWRwbG9tbDdsZXpycQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
