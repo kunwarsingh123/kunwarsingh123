@@ -25,16 +25,24 @@
 ---
 
 ## 🛠 Languages & Tools
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql&theme=dark" /></a>  
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,electron,git,github,vscode&theme=dark" /></a>
+  <!-- Row 1 -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express,mongodb,mysql&theme=dark" height="50" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-%F0%9F%9A%80-blue?style=for-the-badge" />
+  <!-- Row 2 -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,electron&theme=dark" height="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="50" /></a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Development%20Tools-8A2BE2?style=for-the-badge&logoColor=white" />
+</p>
 
 ## 📊 GitHub Status
 <p align="center">
