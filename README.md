@@ -1,11 +1,17 @@
-<!-- ====================== HEADER / LOGO ====================== -->
+<!-- ====================== HEADER / BANNER ====================== -->
 <p align="center">
-  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" />
+  <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" />
 </p>
-<!-- Animated Typing Intro -->
 
+<!-- ====================== ANIMATED INTRO ====================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kunwar+Singh;Full+Stack+Web+Developer;Turning+Ideas+Into+Reality;Always+Learning+New+Things" alt="Typing SVG" />
+</h1>
 
 <!-- ====================== PROFILE IMAGE ====================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kunwarsingh123/kunwarsingh123/main/profile.png" width="250" style="border-radius:50%" alt="Profile Image" />
+</p>
 
 ---
 
