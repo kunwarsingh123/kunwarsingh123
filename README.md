@@ -1,20 +1,21 @@
-<!-- Logo or Banner -->
+<!-- Logo / Banner -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="400" alt="Kunwar Singh Logo" />
+  <img src="https://i.imgur.com/Nf2P3YF.png" width="500" alt="Kunwar Singh Logo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunwar Singh</h1>
-<h3 align="center">💻 Passionate Full Stack Web Developer from India | Currently Learning Something Special 🚀</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 Building Ideas into Reality</h3>
 
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQG98p_1W8GoGQ/article-cover_image-shrink_720_1280/0/1704387245671?e=2147483647&v=beta&t=abq2l6v1Q7TqPa2t4b0A3lZnLobOpmrbn83UMFq2Uss" 
+       alt="Coding Animation" width="500" style="border-radius: 10px;" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/ajaysingh149515" target="blank">
     <img src="https://img.shields.io/twitter/follow/ajaysingh149515?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -26,20 +27,8 @@
 ---
 
 ### 🛠 Languages & Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,react,nodejs,express,mongodb,mysql,java,python,electron" />
 </p>
 
 ---
@@ -55,8 +44,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m learning **Advanced Full Stack & Special Tech Skills**
+- 🔭 Working on **MERN Stack Projects**
+- 🌱 Learning **Advanced Full Stack & Special Technologies**
 - 💬 Ask me about **C++, DSA, Java, MERN, Databases**
 - ⚡ Fun fact: *I debug more than I code — and I love it!*
 
